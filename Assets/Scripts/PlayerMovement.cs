@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//majom Benedek
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float speed;
